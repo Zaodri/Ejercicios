@@ -7,7 +7,7 @@ public class Saludo {
 	public static void main(String [] args) {
 		
 	    
-	    Scanner objeto = new Scanner (System.in);
+    	Scanner objeto = new Scanner (System.in);
         String mensajeUno = new String();
         String mensajeDos = new String();
         
